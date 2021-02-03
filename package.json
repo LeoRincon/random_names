@@ -1,5 +1,5 @@
 {
-  "name": "name_random",
+  "name": "default_name",
   "version": "1.0.0",
   "description": "Get name random",
   "main": "src/index.js",
