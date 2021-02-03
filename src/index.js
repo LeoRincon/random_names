@@ -7,7 +7,9 @@ const names = [
   "Camila New",
   "Lucas Mario",
   "Leonor Castro",
-  "Maria Letter"
+  "Maria Letter",
+  "Poul Jeans",
+  "Marcos Fexels"
 ]
 
 //Crear función para enviar aleatoriamente  los nombres del arreglo
