@@ -14,7 +14,15 @@
   "author": "Leonardo Rincon jleobotache@gmail.com",
   "license": "MIT",
   "bin": {
-    "name-random": "./bin/global.js"
+    "name-random": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoRincon/random_names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeoRincon/random_names/issues"
+  },
+  "homepage": "https://github.com/LeoRincon/random_names#readme"
 }
