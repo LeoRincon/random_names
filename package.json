@@ -1,7 +1,7 @@
 {
   "name": "default_name",
   "version": "1.0.0",
-  "description": "Get name random",
+  "description": "I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
